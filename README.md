@@ -7,12 +7,18 @@
 [![Rust](https://img.shields.io/badge/rust-1.75%2B-blue.svg)](https://www.rust-lang.org/)
 [![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)](https://www.microsoft.com/windows)
 
-[![PayPal](https://img.shields.io/badge/Donar-PayPal-blue.svg)](https://www.paypal.com/paypalme/RutaCun)
-[![Mercado Pago](https://img.shields.io/badge/Donar-Mercado%20Pago-blue.svg)](https://link.mercadopago.com.mx/rutacun)
-
 ---
 
 ## 🇪🇸 Español
+
+<div align="center">
+
+<img src="banner.png" alt="RustSearch Banner" width="800">
+
+[![PayPal](https://img.shields.io/badge/Donar-PayPal-blue.svg)](https://www.paypal.com/paypalme/RutaCun)
+[![Mercado Pago](https://img.shields.io/badge/Donar-Mercado%20Pago-blue.svg)](https://link.mercadopago.com.mx/rutacun)
+
+</div>
 
 ### 📖 ¿Qué es RustSearch?
 
@@ -77,10 +83,7 @@ El ejecutable se generará en `target/release/rustsearch.exe`.
 
 ### ❤️ Apoya el Proyecto
 
-Si RustSearch te resulta útil, puedes invitarme un café o apoyar el mantenimiento del proyecto. ¡Cada aporte ayuda muchísimo!
-
-[![PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/paypalme/RutaCun)
-[![Mercado Pago](https://img.shields.io/badge/Donar-Mercado%20Pago-blue?style=for-the-badge&logo=mercadopago)](https://link.mercadopago.com.mx/rutacun)
+Si RustSearch te resulta útil, puedes invitarme un café o apoyar el mantenimiento del proyecto. ¡Cada aporte ayuda muchísimo! Usa los botones de donación al inicio de esta sección. ☝️
 
 ### 📄 Licencia
 
@@ -97,6 +100,15 @@ Este proyecto está bajo la **Licencia MIT**. Consulta el archivo `LICENSE` para
 ---
 
 ## 🇬🇧 English
+
+<div align="center">
+
+<img src="banner.png" alt="RustSearch Banner" width="800">
+
+[![PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/paypalme/RutaCun)
+[![Mercado Pago](https://img.shields.io/badge/Donate-Mercado%20Pago-blue.svg)](https://link.mercadopago.com.mx/rutacun)
+
+</div>
 
 ### 📖 What is RustSearch?
 
@@ -161,10 +173,7 @@ Contributions are welcome! If you have ideas, find bugs, or want to improve the 
 
 ### ❤️ Support the Project
 
-If RustSearch is useful to you, you can buy me a coffee or support the project's maintenance. Every contribution helps a lot!
-
-[![PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/paypalme/RutaCun)
-[![Mercado Pago](https://img.shields.io/badge/Donate-Mercado%20Pago-blue?style=for-the-badge&logo=mercadopago)](https://link.mercadopago.com.mx/rutacun)
+If RustSearch is useful to you, you can buy me a coffee or support the project's maintenance. Every contribution helps a lot! Use the donation buttons at the top of this section. ☝️
 
 ### 📄 License
 
