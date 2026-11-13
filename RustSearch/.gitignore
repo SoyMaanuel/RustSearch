@@ -1,0 +1,20 @@
+# Rust
+/target
+**/*.rs.bk
+
+# Windows
+*.exe
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.obj
+
+# Sistema
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Editores
+.vscode/
+.idea/
